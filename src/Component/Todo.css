@@ -1,0 +1,11 @@
+body,html{
+   text-align: center;
+   margin: 10px;
+}
+.pink{
+    background-color: pink;
+    
+}
+.go{
+  margin: 6px; 
+}
